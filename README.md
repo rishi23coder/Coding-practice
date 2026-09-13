@@ -1,6 +1,5 @@
-# Coding-practice
-BTech CSE student passionate about AI &amp; Machine Learning, exploring programming, technology, and software development while building skills and projects for a successful career in AI/ML. 🚀
-# Hi, I'm Rishikesh Suman 👋
+
+## Hi, I'm Rishikesh Suman 👋
 
 ## About Me
 - 🎓 BTech Computer science engineering Student at Gurukul Institute Of engineering and Technology in kota 
