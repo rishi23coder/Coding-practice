@@ -14,8 +14,10 @@ BTech CSE student passionate about AI &amp; Machine Learning, exploring programm
 - Computer Networking
 - Artificial Intelligence
 
-- **Samsung Solve for Tomorrow 2026 - Certificate of Participation**
+## Certificate 
 
+- **Samsung Solve for Tomorrow 2026 - Certificate of Participation**
+- 
   This certificate was awarded for valuable contribution to Samsung's flagship innovation program, showcasing commitment to Design Thinking and developing innovative ideas for a better tomorrow.
 
   <img src="https://raw.githubusercontent.com/rishi23coder/Coding-practice/main/IMG_20260908_184139.jpg" width="600" />
