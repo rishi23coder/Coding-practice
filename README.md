@@ -16,7 +16,9 @@ BTech CSE student passionate about AI &amp; Machine Learning, exploring programm
 
 ## Certificate
 - Certificate of participation in samsung
+- Certificate of participation in samsung
 
+<img src="https://raw.githubusercontent.com/rishi23coder/Coding-practice/main/IMG_20260908_184139.jpg" width="600" />
 ## Skills 
 1. wix website designing
 2. git and GitHub
